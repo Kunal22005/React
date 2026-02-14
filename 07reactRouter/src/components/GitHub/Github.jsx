@@ -15,7 +15,7 @@ const Github = () => {
   //         },[])
   return (
     <div className="text-center m-4 bg-gray-600 text-white p-4 text-3xl">
-      Github followers: {data.followers}
+      Github Followers: {data.followers}
       <img
         className="flex flex-wrap"
         src={data.avatar_url}
