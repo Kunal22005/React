@@ -7,7 +7,7 @@ console.log("I am " + age + " years old.");
 
 function greet(person) {
 
-    return "Hello, " + person + "!";
+    return "Hello World, " + person + "!";
 }
 console.log(greet(username));
 let numbers = [1, 2, 3, 4, 5];
